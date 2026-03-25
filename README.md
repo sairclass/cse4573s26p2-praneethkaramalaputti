@@ -5,9 +5,9 @@
 
 Please update this README.md to fill the blank below before submiting to UB Learn!
 
-Name: __________
+Name: praneeth guptha karamalaputti
 
-UBIT: __________
+UBIT: 50628056
 
 ## Implementation
 
